@@ -1,1 +1,1 @@
-fichier pour tester un cas de conflit!!
+Un    fichier pour tester un cas de conflit!!
